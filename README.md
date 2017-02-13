@@ -24,7 +24,7 @@ IMPORTANT DETAILS ABOUT DATABASE PROGRAM
 
 	In this program , a 'Mysql' database is used , so that input need not always be typed when executing the program.  There are four php files which contain the php code for executing the program with a database. 'tsp_1_db.php' , 'tsp_2_db.php' , 'tsp_3_db.php' and 'tsp_4_db.php' are the four php files.  The order of execution of the php files is 'tsp_1_db.php' , 'tsp_2_db.php' , 'tsp_3_db.php' and then 'tsp_4_db.php'.  The execution need only to be started from 'tsp_1_db.php'.
 
-	The 'XAMPP' Web Server is used for executing the php files and for processing the table data present in the database.  All the four 'php' files ( ie:- 'tsp_1_db.php' , 'tsp_2_db.php' , 'tsp_3_db.php' and 'tsp_4_db.php' )can be put in 'C:\xampp\htdocs' folder. The execution need only to be started from 'tsp_1_db.php'.
+	The 'XAMPP' Web Server is used for executing the php files and for processing the table data present in the database.  All the four 'php' files ( ie:- 'tsp_1_db.php' , 'tsp_2_db.php' , 'tsp_3_db.php' and 'tsp_4_db.php' ) can be put in 'C:\xampp\htdocs' folder. The execution need only to be started from 'tsp_1_db.php'.
 
 	"tsp_data_for_program_database_db.sql" is the sql file for importing the "tsp_data_for_program_database" database into the mysql database. This file has to be imported into the Mysql database ( The 'PHPMyAdmin' database interface already present in 'XAMPP' Web Server can be used for importing the database file ), otherwise the database php files will not work , since the "tsp_data_for_program_database" database should be present in the main database. All the tables needed for storing the data of the graphs should be present in the "tsp_data_for_program_database" database.
 
