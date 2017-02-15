@@ -1,6 +1,8 @@
 # Travelling-Salesman-Problem-Solution-Code-using-Database
 This Php program finds the 'polynomial time' solution to the Travelling Salesman Problem for a 'Complete' graph using a database, so that data does not have to be typed in always. 
 
+The input data that the user inputs during the execution of the program is only the name of each vertex and the weight of each edge present in the graph to be solved by the program.
+
 Please Note : If for an example graph, if there is no edge between two vertices, then assign a weight to the imaginary edge connecting the two vertices. The weight can be equal to the sum of the weights of all the real edges present in the example  graph. This imaginary edge with a weight is necessary because of the condition that this program works on 'Complete' graphs only.  A 'Complete' graph is the exactly the same mathematical object used in Graph Theory. Also please note that no edge in the example graph should have a weight of 0.
 
 
