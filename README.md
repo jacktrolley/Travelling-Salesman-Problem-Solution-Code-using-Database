@@ -49,7 +49,7 @@ IMPORTANT DETAILS ABOUT DATABASE PROGRAM
 
 7) No edge should have a weight with a value of 0.
 
-8) In tsp_4.php , in line no 3 and line no 4, the following code is given. The code is as follows :-
+8) In tsp_4_db.php , in line no 3 and line no 4, the following code is given. The code is as follows :-
 
 ini_set('memory_limit', '1024M');     
 ini_set('max_execution_time', 10800);
