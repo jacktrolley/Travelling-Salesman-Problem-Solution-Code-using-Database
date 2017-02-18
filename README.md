@@ -5,13 +5,6 @@ The input data that the user inputs during the execution of the program is only 
 
 Please Note : If for an example graph, if there is no edge between two vertices, then assign a weight to the imaginary edge connecting the two vertices. The weight can be equal to the sum of the weights of all the real edges present in the example  graph. This imaginary edge with a weight is necessary because of the condition that this program works on 'Complete' graphs only.  A 'Complete' graph is the exactly the same mathematical object used in Graph Theory. Also please note that no edge in the example graph should have a weight of 0.
 
-
-I have uploaded the text file "TSP_Latest_M5_2016.txt".  The file describes the method and the algorithm for the program. The algorithm is a simple algorithm.  For an easier understanding of the algorithm , the algorithm has been explained in terms of the example given in the 'TSP_Latest_M5_2016.txt' document.  The file 'TSP_Latest_M5_2016.txt' consists of 3 sections. The 3 sections are as follows :- 
-a) 'NOTATION SECTION' 
-b) 'ALGORITHM SECTION' 
-c) 'EXAMPLE SECTION'
- 
-
 To work with PHP files , 'XAMPP' Web Server has to be installed in the Computer. 'XAMPP' Web Server is available on the internet.  When running XAMPP Web Server for the program , I highly recommend that you are not connected to the internet , because eventhough my knowledge in network security is very limited, I feel that due to 'XAMPP' itself being a Web Server and so when XAMPP is running and if the computer is connected to the internet, other insecure connections can become connected to your computer. This is what I think is occuring eventhough my knowledge in this area is very limited. So as far as possible, once you have fully installed XAMPP , and before you start to run XAMPP, it is better to disconnect your computer from the internet. After you have finished running the php program, and you have stopped Apache and Mysql from the XAMPP control panel , and when you have quit XAMPP completely, then you can reconnect your computer to the internet.
 
 I am getting all the correct answers for all the travelling salesman problem examples given in two important textbooks which contain sections describing the Travelling Salesman Problem. The two textbooks are as follows :-
