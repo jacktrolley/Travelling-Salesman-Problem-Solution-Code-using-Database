@@ -1,5 +1,5 @@
 # Travelling-Salesman-Problem-Solution-Code-using-Database
-This Php program finds the 'polynomial time' solution to the Travelling Salesman Problem for a 'Complete' graph using a database, so that data does not have to be typed in always. 
+This PHP program finds the 'polynomial time' solution to the Travelling Salesman Problem for a 'Complete' graph using a database, so that data does not have to be typed in always. 
 
 The input data that the user inputs during the execution of the program is only the name of each vertex and the weight of each edge present in the graph.
 
